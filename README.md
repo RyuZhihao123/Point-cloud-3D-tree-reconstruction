@@ -2,7 +2,7 @@
 
 This is a program for reconstructing a 3D tree model from scanned point clouds. The program is fully developed in C++.
 
-**Demo video**: [[Video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing).
+🎞️ **Demo video**: [[Video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing).
 
 <p align="center">
 <img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Peach.png" alt="Description" width="400"/>
@@ -10,15 +10,15 @@ This is a program for reconstructing a 3D tree model from scanned point clouds. 
 
 ## Usage.
 
-**Binary Program**: [code](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes)
+😄 **Binary Program**: [[exe]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_exe)
 
 We released the ``exe`` program so that you can directly execute on Windows PCs without any configuration or compilation.
 
-**Demo video**: [[Video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing).
+🎞️ **Demo Video**: [[video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing).
 
 Please first watch this video to know its usage.
 
-Source code: [code](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes)
+📂 **Source Code**: [[code]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes)
 
 If you want to compile the code on your own device, we also released the source code for this purpose.
 You can use ``Qt 5.8+`` or ``Visual Studio 2017+`` to compile the program.
