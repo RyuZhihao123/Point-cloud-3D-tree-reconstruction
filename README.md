@@ -20,8 +20,8 @@ Please first watch this video to know its usage.
 
 📂 **Source Code**: [[code]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes)
 
-If you want to compile the code on your own device, we also released the source code for this purpose.
-You can use ``Qt 5.8+`` or ``Visual Studio 2017+`` to compile the program.
+If you want to compile on your own device, we also released the source code for this purpose.
+You can choose ``Qt 5.8+`` or ``Visual Studio 2017+`` to easily compile the program.
 
 Please note that we suggest using ``Release`` mode to complile the program, better not compile in ``Debug`` mode.
 
