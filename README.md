@@ -10,7 +10,7 @@ This is a program for reconstructing a 3D tree model from scanned point clouds. 
 
 ## Usage.
 
-😄 **Binary Program**: [[exe]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_exe)
+😄 **Software(Binary Program)**: [[exe]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_exe)
 
 We released the ``exe`` program so that you can directly execute on Windows PCs without any configuration or compilation.
 
