@@ -16,7 +16,9 @@ We released the ``exe`` program so that you can directly execute on Windows PCs 
 
 🎞️ **Demo Video**: [[video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing).
 
-Please first watch this video to know its usage.
+Please first watch this demo video to know its usage (**strongly suggest!**).
+
+The point cloud files I used in the video are available [here](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds).
 
 📂 **Source Code**: [[code]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes)
 
