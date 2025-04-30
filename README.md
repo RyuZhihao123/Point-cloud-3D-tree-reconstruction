@@ -21,17 +21,17 @@ We have released the ``exe`` program and you can [Download here](https://github.
 Here are also the [example Point-cloud Files](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds) that I used in the demo video. You can download them for a quick start.
 
 
-**- Usage Instructions**: 
+**(1) Usage Instructions**: 
 
-  1. Please first download the entire [[folder]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_exe), then double-click the ``TreeFromPoints.exe`` to execute the program.
-  2. Then, press the ``Load Point Data`` button to load a point cloud file from your local disk. Example point data is available [here](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds).
-  3. Finally, sequentially press the seven buttons from ``(1) Remove noises`` to ``(7) Optimize``, and you will see the final 3D tree models in the right display panel.
+- Please first download the entire [[folder]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_exe), then double-click the ``TreeFromPoints.exe`` to execute the program.
+- Then, press the ``Load Point Data`` button to load a point cloud file from your local disk. Example point data is available [here](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds).
+- Finally, sequentially press the seven buttons from ``(1) Remove noises`` to ``(7) Optimize``, and you will see the final 3D tree models in the right display panel.
 
-**- How to export the 3D models?**
+**(2) How to export the 3D models?**
 
-The results are automatically saved under the exe folder path with filename as ``bark_texture.obj``. Please refer to this [issue](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/issues/1) for details.
+Actually, the 3D results are automatically saved under the exe folder path with filename as ``bark_texture.obj``. Please refer to this [issue](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/issues/1) for more details.
 
-The following figures shows an exported result that is opened by 3D Viewer.
+The following figures shows an example of an exported result which is opened by 3D Viewer.
 
 <p align="center">
 <img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_export.png" alt="Description" width="600"/>
