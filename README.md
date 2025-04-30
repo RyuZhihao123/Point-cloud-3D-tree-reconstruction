@@ -8,7 +8,7 @@ This is a program for reconstructing a 3D tree model from scanned point clouds. 
 <img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Peach.png" alt="Description" width="400"/>
 </p>
 
-## Usage.
+## Quick Start.
 
 🎞️ **Demo video**: 
 
@@ -21,13 +21,13 @@ We released the ``exe`` program under this [[Folder]](https://github.com/RyuZhih
 Here are the [example point cloud files](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds) that I used in the video. You can use them to have a try.
 
 
-**Procedures**: 
+**Usage Instructions**: 
 
   1. Please first download the entire repository, then double-click the ``TreeFromPoints.exe`` to execute the program.
   2. Then, press the ``Load Point Data`` button to load a point cloud file from your local disk. Example point data is available [here](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds).
   3. Finally, sequentially press the seven buttons from ``(1) Remove noises`` to ``(7) Optimize``, and you will see the final 3D tree models in the right display panel.
 
-**How to export the 3D models**:
+**How to export the 3D models?**:
 
 The results are automatically saved under the exe folder path with filename as ``bark_texture.obj``. Please refer to this [issue](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/issues/1) for details.
 
