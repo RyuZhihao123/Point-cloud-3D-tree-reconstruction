@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/ss">
+        <file>res/shaders/PointsFShader.glsl</file>
+        <file>res/shaders/PointsVShader.glsl</file>
+        <file>res/shaders/TreeFShader.glsl</file>
+        <file>res/shaders/TreeVShader.glsl</file>
+        <file>res/shaders/GraphFShader.glsl</file>
+        <file>res/shaders/GraphVShader.glsl</file>
+        <file>res/shaders/SingleFShader.glsl</file>
+        <file>res/shaders/SingleVShader.glsl</file>
+    </qresource>
+    <qresource prefix="/3dmesh">
+        <file>res/shaders/3DMesh/barkFShader.glsl</file>
+        <file>res/shaders/3DMesh/barkVShader.glsl</file>
+        <file>res/shaders/3DMesh/LeafFShader.glsl</file>
+        <file>res/shaders/3DMesh/LeafVShader.glsl</file>
+        <file>res/shaders/3DMesh/default_bark.png</file>
+        <file>res/shaders/3DMesh/default_leaf.png</file>
+    </qresource>
+</RCC>
