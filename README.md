@@ -39,7 +39,7 @@ The following figures shows an exported result that is opened by 3D Viewer.
 
 🌏 **Source code**: [[Source Code]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes)
 
-For general use, we recommend using the exe program introduced above. Butif you want to customize the program for your own purposes, please download the source code under this [folder](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes). They are C++ codes so you can easily compile with any C++ IDEs.
+For general use, we recommend using the exe program introduced above. But if you want to customize the program for your own purposes, please download the ``Source Code`` under this [folder](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes). They are C++ codes so you can easily compile with any C++ IDEs.
 
 
 
