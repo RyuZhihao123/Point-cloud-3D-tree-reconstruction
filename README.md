@@ -10,25 +10,32 @@ This is a program for reconstructing a 3D tree model from scanned point clouds. 
 
 ## Usage.
 
-😄 **Software(Binary Program)**: [[exe]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_exe)
+🎞️ **Demo video**: 
 
-We released the ``exe`` program so that you can directly execute on Windows PCs without any configuration or compilation.
+We strongly recommend first watching this [[Demo Video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing) to understand its usage quickly.
 
-🎞️ **Demo Video**: [[video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing).
+😄 **Software Download**: 
 
-Please first watch this demo video to know its usage (**strongly suggest!**).
+We released the ``exe`` program under this [[Folder]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_exe), so that users can directly execute the program on Windows PCs without any configuration or compilation.
 
-The point cloud files I used in the video are available [here](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds).
-
-📂 **Source Code**: [[code]](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/TreeFromPoints_codes)
-
-If you want to compile on your own device, we also released the source code for this purpose.
-You can choose ``Qt 5.8+`` or ``Visual Studio 2017+`` to easily compile the program.
-
-Please note that we suggest using ``Release`` mode to complile the program, better not compile in ``Debug`` mode.
+Here are the [example point cloud files](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds) that I used in the video. You can use them to have a try.
 
 
+**Procedures**: 
 
+  1. Please first download the entire repository, then double-click the ``TreeFromPoints.exe`` to execute the program.
+  2. Then, press the ``Load Point Data`` button to load a point cloud file from your local disk. Example point data is available [here](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/tree/main/Example_PointClouds).
+  3. Finally, sequentially press the seven buttons from ``(1) Remove noises`` to ``(7) Optimize``, and you will see the final 3D tree models in the right display panel.
+
+**How to export the 3D models**:
+
+The results are automatically saved under the exe folder path with filename as ``bark_texture.obj``. Please refer to this [issue](https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/issues/1) for details.
+
+The following figures shows an exported result that is opened by 3D Viewer.
+
+<p align="center">
+<img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_export.png" alt="Description" width="400"/>
+</p>
 
 ## More Experimental Results.
 <p align="center">
