@@ -4,10 +4,6 @@
 
 This is a program for reconstructing a 3D tree model from scanned point clouds. The program is fully developed in C++.
 
-<p align="center">
-<img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Peach.png" alt="Description" width="300"/>
-</p>
-
 
 
 
