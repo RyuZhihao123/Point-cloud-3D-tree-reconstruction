@@ -1,18 +1,29 @@
 # Point-cloud-3D-tree-reconstruction
 
+
+
 This is a program for reconstructing a 3D tree model from scanned point clouds. The program is fully developed in C++.
 
-🎞️ **Demo video**: [[Video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing).
-
 <p align="center">
-<img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Peach.png" alt="Description" width="400"/>
+<img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Peach.png" alt="Description" width="300"/>
 </p>
+
+
+
+
+
+
 
 ## Quick Start.
 
 ### 🎞️ Demo video: 
 
 We recommend all users first watching this **[[Demo Video]](https://drive.google.com/file/d/1sX3tNEdxsmSTkAFL4GsnzzMajR-hw_qR/view?usp=sharing)** to understand its usage quickly. **(Strongly Suggest!🔥🔥)** 
+
+
+https://github.com/user-attachments/assets/1e220954-949b-4f4e-b950-efc51ec923c9
+
+
 
 ### 🪴 Software:
 
