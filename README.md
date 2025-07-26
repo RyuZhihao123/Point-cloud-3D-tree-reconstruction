@@ -53,15 +53,16 @@ But if you want to customize the program for your own purposes, please [Download
 
 
 ## More Experimental Results.
-<p align="center">
-<img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Cercis.png" alt="Description" width="400"/>
-</p>
-<p align="center">
-<img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Maple.png" alt="Description" width="400"/>
-</p>
+
 <p align="center">
 <img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Peach.png" alt="Description" width="400"/>
 </p>
 <p align="center">
+<img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Cercis.png" alt="Description" width="400"/>
+</p>
+<p align="center">
 <img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_default.png" alt="Description" width="400"/>
+</p>
+<p align="center">
+<img src="https://github.com/RyuZhihao123/Point-cloud-3D-tree-reconstruction/blob/main/Fig_Maple.png" alt="Description" width="400"/>
 </p>
