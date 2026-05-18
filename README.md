@@ -1,6 +1,6 @@
 # Point-cloud-3D-tree-reconstruction
 
-
+It is so disgusting.... PLEASE DON'T DIRECTLY USE MY SOFTWARE TO PUBLISH A PAPER WITHOUT NOTIFICATION TO ME! PLEASE CLARIFY THAT YOU USED MY SOFTWARE IN YOUR PAPER. HOLY SHIT! WHY DO I HAVE TO SHARE MY CODE HERE. YOU GUYS WHO PUBLISH PAPERS SIMPLY USE MY SOFTWARE ARE BULL-SHIT.
 
 This is a program for reconstructing a 3D tree model from scanned point clouds. The program is fully developed in C++.
 
