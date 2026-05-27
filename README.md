@@ -1,13 +1,15 @@
 # Point-cloud-3D-tree-reconstruction
 
 
-**Please give a proper citation/clarification to this GitHub page once you use my code/software for your papers.**
-
-This is a program for reconstructing a 3D tree model from scanned point clouds. The program is fully developed in C++
+**💥Please Give a proper citation/clarification to this GitHub page and mentioning my Name if you're using my code/software for your paper.** I have always noticed that some people directly use my code and then claim they “developed” or “proposed” the technique themselves. This is unacceptable!
+If you use this work in your research, please clearly acknowledge the source and cite this repository appropriately. Every time I encounter a paper that uses my work without proper attribution or citation, I will formally report it to the journal editors.
 
 
 
 ## Quick Start.
+
+This is a program for reconstructing a 3D tree model from scanned point clouds. The program is fully developed in C++
+
 
 ### 🎞️ Demo video: 
 
